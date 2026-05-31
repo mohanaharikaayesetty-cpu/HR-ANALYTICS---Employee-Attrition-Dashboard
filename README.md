@@ -68,6 +68,6 @@ Employee Attrition Analysis – Process
 - ⚖️ Better work-life balance contributes to employee retention.
 - 🚀 Lack of promotions increases the likelihood of employee turnover.
 
-##✅ Conclusion
+## ✅ Conclusion
 
 Using Excel, SQL, Tableau, and Power BI, the project identified key factors affecting employee attrition and provided actionable insights to improve employee retention, satisfaction, and HR decision-making. 🚀📈👥
