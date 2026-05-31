@@ -1,2 +1,2 @@
 # HR-ANALYTICS---Employee-Attrition-Dashboard
-Employee Attrition Analysis is an HR Analytics project that examines employee turnover using HR data. By analyzing attrition trends, work-life balance, income, and promotions, the project delivers insights that help organizations improve employee retention and make better HR decisions.
+Employee Attrition Analysis is an HR Analytics project completed using Excel, SQL, Tableau, and Power BI to analyze employee turnover patterns. The project involved data cleaning, KPI creation, and interactive dashboards to uncover insights on attrition, income, work-life balance, and promotions, helping organizations improve employee retention and HR decision-making
