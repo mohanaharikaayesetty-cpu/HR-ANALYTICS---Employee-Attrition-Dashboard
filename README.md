@@ -49,6 +49,8 @@ Employee Attrition Analysis is an HR Analytics project completed using Excel, SQ
 - <a href ="https://github.com/mohanaharikaayesetty-cpu/HR-ANALYTICS---Employee-Attrition-Dashboard/blob/main/Power%20BI%20Screenshot%202.png">POWER BI-Dashboard 2</a>
 - <a href ="https://github.com/mohanaharikaayesetty-cpu/HR-ANALYTICS---Employee-Attrition-Dashboard/blob/main/Power%20BI%20Screenshot%203.png">POWER BI-Dashboard 3</a>
 
+- <a href="https://github.com/ayesettymohanasaisreeharika/HR-ANALYTICS---Employee-Attrition-Dashboard/blob/main/Tableau%20Screenshot.png">TABLEAU-DASHBOARD</a>
+
 ## MYSQL
 - <a href="https://github.com/mohanaharikaayesetty-cpu/HR-ANALYTICS---Employee-Attrition-Dashboard/blob/main/HR_Analytics_Project.sql">MYSQL</a>
 
@@ -81,15 +83,20 @@ Employee Attrition Analysis – Process
 Using Excel, SQL, Tableau, and Power BI, the project identified key factors affecting employee attrition and provided actionable insights to improve employee retention, satisfaction, and HR decision-making. 🚀📈👥
 
 ## Dashboard
+## EXCEL DASHBOARDS
 <img width="1919" height="951" alt="Excel Screenshot 1" src="https://github.com/user-attachments/assets/2b13fd70-fe7f-4eaa-ae41-99f0cce40c8f" />
 
 <img width="1913" height="990" alt="Excel Screenshot 2" src="https://github.com/user-attachments/assets/924597c9-a7d5-4b4f-a410-4199467d021d" />
 
+## POWER BI DASHBOARDS
 <img width="1478" height="771" alt="Power BI Screenshot 1" src="https://github.com/user-attachments/assets/25fde27e-e549-4f04-9e60-79ab0cca7be6" />
 
 <img width="1679" height="815" alt="Power BI Screenshot 2" src="https://github.com/user-attachments/assets/21ff4df6-a581-4946-be17-5444c8e1511a" />
 
 <img width="1553" height="817" alt="Power BI Screenshot 3" src="https://github.com/user-attachments/assets/d9dfac0f-52aa-49d6-a772-1d293d01e387" />
+
+## TABLEAU DASHBOARD
+<img width="1910" height="963" alt="Tableau Screenshot" src="https://github.com/user-attachments/assets/fb0bbf86-4895-4176-9dd8-18681733d8a2" />
 
 
 
