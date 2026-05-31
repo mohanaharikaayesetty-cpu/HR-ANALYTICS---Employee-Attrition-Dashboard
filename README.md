@@ -49,6 +49,8 @@ Employee Attrition Analysis is an HR Analytics project completed using Excel, SQ
 - <a href ="https://github.com/mohanaharikaayesetty-cpu/HR-ANALYTICS---Employee-Attrition-Dashboard/blob/main/Power%20BI%20Screenshot%202.png">POWER BI-Dashboard 2</a>
 - <a href ="https://github.com/mohanaharikaayesetty-cpu/HR-ANALYTICS---Employee-Attrition-Dashboard/blob/main/Power%20BI%20Screenshot%203.png">POWER BI-Dashboard 3</a>
 
+## MYSQL
+- <a href="https://github.com/mohanaharikaayesetty-cpu/HR-ANALYTICS---Employee-Attrition-Dashboard/blob/main/HR_Analytics_Project.sql">MYSQL</a>
 
 ## Process
 
