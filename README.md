@@ -80,9 +80,13 @@ Using Excel, SQL, Tableau, and Power BI, the project identified key factors affe
 
 ## Dashboard
 <img width="1919" height="951" alt="Excel Screenshot 1" src="https://github.com/user-attachments/assets/2b13fd70-fe7f-4eaa-ae41-99f0cce40c8f" />
+
 <img width="1913" height="990" alt="Excel Screenshot 2" src="https://github.com/user-attachments/assets/924597c9-a7d5-4b4f-a410-4199467d021d" />
+
 <img width="1478" height="771" alt="Power BI Screenshot 1" src="https://github.com/user-attachments/assets/25fde27e-e549-4f04-9e60-79ab0cca7be6" />
+
 <img width="1679" height="815" alt="Power BI Screenshot 2" src="https://github.com/user-attachments/assets/21ff4df6-a581-4946-be17-5444c8e1511a" />
+
 <img width="1553" height="817" alt="Power BI Screenshot 3" src="https://github.com/user-attachments/assets/d9dfac0f-52aa-49d6-a772-1d293d01e387" />
 
 
