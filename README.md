@@ -17,7 +17,7 @@ Employee Attrition Analysis is an HR Analytics project completed using Excel, SQ
 
 - 🔢 SQL – Data Extraction, Transformation & Reporting
 
-- ⚡ DAX (Data Analysis Expressions) – KPI and Measure Creation in Power BI
+- ⚡ DAX (Data Analysis Expressions) KPI and Measure Creation in Power BI
 
 - 👥 HR Analytics – Employee Attrition Analysis & Workforce Insights
 
@@ -41,7 +41,9 @@ Employee Attrition Analysis is an HR Analytics project completed using Excel, SQ
 - Job Satisfaction vs Attrition
 - Overtime vs Attrition
 - Attrition Rate by Gender
-- Dashboard interaction 
+
+## Dashboard interaction 
+- <a href ="https://github.com/mohanaharikaayesetty-cpu/HR-ANALYTICS---Employee-Attrition-Dashboard/blob/main/Excel%20Screenshot%201.png">EXCEL-Dashboard</a>
 
 
 ## Process
