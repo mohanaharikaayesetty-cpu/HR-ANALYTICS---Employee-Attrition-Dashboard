@@ -21,17 +21,17 @@ Employee Attrition Analysis is an HR Analytics project completed using Excel, SQ
 ##Process
 
 Employee Attrition Analysis – Process
-- Data Collection
+- Data Collection : 
    Imported HR_1 and HR_2 datasets from Excel.
-- Data Cleaning
+- Data Cleaning : 
   Removed duplicates, handled missing values, corrected data types, and standardized data formats.
-- Data Analysis
+- Data Analysis : 
   Explored employee data to identify attrition trends and workforce patterns.
-- KPI Development
+- KPI Development : 
   Created KPIs such as Attrition Rate, Average Working Years, Monthly Income Analysis, and Work-Life Balance metrics.
-- SQL Implementation
+- SQL Implementation :  
   Wrote SQL queries to extract, transform, and analyze HR data.
-- Dashboard Development
+- Dashboard Development : 
   Built interactive dashboards in Excel, Tableau, and Power BI.
-- Visualization & Insights
+- Visualization & Insights : 
   Created charts and reports to highlight key findings and business insights.
