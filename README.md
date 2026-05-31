@@ -22,15 +22,15 @@ Employee Attrition Analysis is an HR Analytics project completed using Excel, SQ
 - 👥 HR Analytics – Employee Attrition Analysis & Workforce Insights
 
 ## 🎯 Key Skills
--🧹 Data Cleaning
--📊 Data Analysis
--📈 Data Visualization
--📋 KPI Development
--📉 Dashboard Design
--💡 Business Insights & Reporting
+- 🧹 Data Cleaning
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 📋 KPI Development
+- 📉 Dashboard Design
+- 💡 Business Insights & Reporting
   
 
-##The KPI questions:
+## The KPI questions:
 
 - What is the average attrition rate for all departments?
 - What is the average hourly rate of male Research Scientists?
@@ -44,7 +44,7 @@ Employee Attrition Analysis is an HR Analytics project completed using Excel, SQ
 - Dashboard interaction 
 
 
-##Process
+## Process
 
 Employee Attrition Analysis – Process
 - Data Collection : 
