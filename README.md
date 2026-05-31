@@ -4,3 +4,34 @@ Employee Attrition Analysis is an HR Analytics project completed using Excel, SQ
 
 ## Dataset Used
 - <a href="https://github.com/mohanaharikaayesetty-cpu/HR-ANALYTICS---Employee-Attrition-Dashboard/blob/main/HR_1%20(1).xlsx">Dataset</a>
+
+##The KPI questions:
+
+- What is the average attrition rate for all departments?
+- What is the average hourly rate of male Research Scientists?
+- What is the relationship between attrition rate and monthly income?
+- What is the average working years for each department?
+- How does work-life balance vary across different job roles?
+- What is the relationship between attrition rate and years since last promotion?
+- Job Satisfaction vs Attrition
+- Overtime vs Attrition
+- Attrition Rate by Gender
+
+
+##Process
+
+Employee Attrition Analysis – Process
+1.Data Collection
+   Imported HR_1 and HR_2 datasets from Excel.
+2.Data Cleaning
+  Removed duplicates, handled missing values, corrected data types, and standardized data formats.
+3.Data Analysis
+  Explored employee data to identify attrition trends and workforce patterns.
+4.KPI Development
+  Created KPIs such as Attrition Rate, Average Working Years, Monthly Income Analysis, and Work-Life Balance metrics.
+5.SQL Implementation
+  Wrote SQL queries to extract, transform, and analyze HR data.
+6.Dashboard Development
+  Built interactive dashboards in Excel, Tableau, and Power BI.
+7.Visualization & Insights
+  Created charts and reports to highlight key findings and business insights.
