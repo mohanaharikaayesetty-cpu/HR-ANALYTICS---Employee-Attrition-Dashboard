@@ -5,6 +5,31 @@ Employee Attrition Analysis is an HR Analytics project completed using Excel, SQ
 ## Dataset Used
 - <a href="https://github.com/mohanaharikaayesetty-cpu/HR-ANALYTICS---Employee-Attrition-Dashboard/blob/main/HR_1%20(1).xlsx">Dataset</a>
 
+## 🛠️ Tech Stack / Technologies Used
+
+- 📊 Microsoft Excel – Data Cleaning, KPI Calculations & Dashboard Creation
+
+- 🗄️ MySQL – Data Storage, Querying & Analysis
+
+- 📈 Tableau – Interactive Data Visualization & Dashboard Development
+
+- 📉 Power BI – Business Intelligence Reporting & Dashboard Creation
+
+- 🔢 SQL – Data Extraction, Transformation & Reporting
+
+- ⚡ DAX (Data Analysis Expressions) – KPI and Measure Creation in Power BI
+
+- 👥 HR Analytics – Employee Attrition Analysis & Workforce Insights
+
+## 🎯 Key Skills
+-🧹 Data Cleaning
+-📊 Data Analysis
+-📈 Data Visualization
+-📋 KPI Development
+-📉 Dashboard Design
+-💡 Business Insights & Reporting
+  
+
 ##The KPI questions:
 
 - What is the average attrition rate for all departments?
@@ -16,6 +41,7 @@ Employee Attrition Analysis is an HR Analytics project completed using Excel, SQ
 - Job Satisfaction vs Attrition
 - Overtime vs Attrition
 - Attrition Rate by Gender
+- Dashboard interaction 
 
 
 ##Process
@@ -35,3 +61,13 @@ Employee Attrition Analysis – Process
   Built interactive dashboards in Excel, Tableau, and Power BI.
 - Visualization & Insights : 
   Created charts and reports to highlight key findings and business insights.
+
+  ## 🔍 Key Insights
+- 📊 Attrition varies across departments and job roles.
+- 💰 Lower income is associated with higher attrition.
+- ⚖️ Better work-life balance contributes to employee retention.
+- 🚀 Lack of promotions increases the likelihood of employee turnover.
+
+##✅ Conclusion
+
+Using Excel, SQL, Tableau, and Power BI, the project identified key factors affecting employee attrition and provided actionable insights to improve employee retention, satisfaction, and HR decision-making. 🚀📈👥
